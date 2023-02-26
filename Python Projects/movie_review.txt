@@ -1,0 +1,6 @@
+(+1): This movie is so good!
+(-1): This film is so bad...
+(-1): This movie suffers from some cliche
+(+1): This film deserves an Oscar!
+(+1): Like it a lot
+(-1): A lot of bad acting
