@@ -1,6 +1,6 @@
 # Python-projects-
 Hello there!\
-This repository holds my programming projects done during a Python bootcamp course. 
+This repository holds my programming projects done during the period of a Python bootcamp (StanCode SC101). 
 
 ## Project Source Codes: 
 * [Binary Tree] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/tree.py
