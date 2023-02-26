@@ -4,7 +4,7 @@ This repository holds my programming projects done during the period of a Python
 
 ## Project Source Codes: 
 * [Baby names] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/babygraphics.py
-* [Web crawler] 
+* [Web crawler] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/web_crawler.py https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/web_crawler_avg.py https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/web_crawler_directors.py
 * [Binary Tree] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/tree.py
   * basic concepts for binary trees
 * [Sierpinski triangle] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/sierpinski.py
