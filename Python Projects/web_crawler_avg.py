@@ -1,6 +1,6 @@
 """
 File: web_crawler_avg.py
-Name:
+Name: Yu-Shan Cheng
 --------------------------
 This file demonstrates how to get
 averages on www.imdb.com/chart/top
