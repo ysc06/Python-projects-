@@ -6,7 +6,7 @@ This repository holds my programming projects done during the period of a Python
 * [Binary Tree] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/tree.py
   * basic concepts for binary trees
 * [Dice rolls permutations] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/dice_rolls_sum.py
-  * recusive algorithm
+  * recursive algorithm
 * [Canator set drawing] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/cantor_set_drawing.py
   * recursive algorithm
 * [Rotton tomatoes movie review] https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/rotten_tomato.py https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/movie_review.txt
