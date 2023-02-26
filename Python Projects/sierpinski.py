@@ -1,6 +1,6 @@
 """
 File: sierpinski.py
-Name: 
+Name: Yu-Shan Cheng
 ---------------------------
 This file recursively prints the Sierpinski triangle on GWindow.
 The Sierpinski triangle is a fractal described in 1915 by Waclaw Sierpinski.
@@ -31,13 +31,6 @@ def main():
 
 
 def sierpinski_triangle(order, length, upper_left_x, upper_left_y):
-	"""
-	:param order:
-	:param length:
-	:param upper_left_x:
-	:param upper_left_y:
-	:return:
-	"""
 	#BASE CASE
 	#order==0
 	if order==0:
