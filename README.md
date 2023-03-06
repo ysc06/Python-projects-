@@ -20,7 +20,7 @@ This repository holds my programming projects done during the period of a Python
 * [Rotton tomatoes movie review](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/rotten_tomato.py)\
   [Movie review text](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/movie_review.txt)
   * AI in classification task
-* [Breakout game](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/breakoutgraphics.py) 
+* [Breakout game](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/breakoutgraphics.py) \
   [Breaout.py](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/breakout.py)
   * object-oriented programming
 * [Pypal](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/pypal.py)
