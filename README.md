@@ -1,6 +1,6 @@
 # Python-projects-
 Hello there!\
-I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC).\
+I am a test developer and an MCS student at the University of Illinois at Urbana-Champaign (UIUC).\
 This repository holds my programming projects done during the period of a Python bootcamp in 2021. 
 
 ## Project Source Codes: 
