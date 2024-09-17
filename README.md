@@ -1,7 +1,7 @@
 # Python-projects-
 Hello there!\
 I am a test developer at ETS and a Master of Computer Science student at the University of Illinois at Urbana-Champaign (UIUC).\
-This repository holds my programming projects done during the period of a Python bootcamp in 2021. 
+This repository holds my programming projects using Python. 
 
 ## Project Source Codes: 
 * [Baby names](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/babygraphics.py) 
