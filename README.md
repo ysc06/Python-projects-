@@ -4,7 +4,7 @@ I am a test developer at ETS and a Master of Computer Science student at the Uni
 This repository holds my programming projects using Python. 
 
 ## Project Source Codes: 
-* [Baby names](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/babygraphics.py) 
+* [Interactive baby names trend visualizer](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/babygraphics.py) 
 * [Web crawler](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/web_crawler.py) \
   [Web crawler avg](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/web_crawler_avg.py)\
   [Web crawler director](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/web_crawler_directors.py)               
@@ -24,7 +24,7 @@ This repository holds my programming projects using Python.
 * [Breakout game](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/breakoutgraphics.py) \
   [Breaout.py](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/breakout.py)
   * object-oriented programming
-* [Pypal](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/pypal.py)
+* [Pypal secure banking system](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/pypal.py)
   * object-oriented programming
 * [Whack a mole](https://github.com/ysc06/Python-projects-/blob/main/Python%20Projects/whack_a_mole.py)
   * event-driven program
